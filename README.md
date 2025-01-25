@@ -19,41 +19,37 @@ A curated collection of Jupyter notebooks—some authored by me, and some collec
 3. **Open the Notebooks**:
    Open and execute the notebooks in word, or any compatible platform.
 
-## Books: (authored by me)
 
-## Programming Languages ==> 
 
-### C Programing Language 
+### Books: (authored by me)
+####### ===================================================================
+#### C Programing Language 
 - C_Programming_Language_Beginner--Advance.pdf
 - ctype.h_Header_File_in_C.pdf
 - string.h_Header_File_in_C.pdf
 
-### Python: 
+#### Python: 
 - Python_for_ CyberSecurity.pdf
 - The_Pythonic_Odyssey_Beginner--Advance.pdf
   
-### Bash Scripting: 
+#### Bash Scripting: 
 - Bash_Scripting_Beginner--Advance.pdf
+  
+####### ===================================================================
 
-### Networking: 
+#### Networking: 
 - Foundations_of_Networking.pdf
 
-### Web Devolopment
-- HTML HandBook
+#### Web Devolopment
+- HTML_HandBook.pdf
 
 
-- 
 - And more...
 
 ## Contributions
 
 Contributions are welcome! If you have notebooks that would fit well in this collection, feel free to open a pull request.
 
-## License
-
-This repository is licensed under the MIT License. Feel free to use and share the notebooks with proper attribution.
-
 ---
 
 Happy coding and exploring!
-```
