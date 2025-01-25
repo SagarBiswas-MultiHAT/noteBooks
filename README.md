@@ -21,8 +21,8 @@ A curated collection of Jupyter notebooks—some authored by me, and some collec
 
 
 
-### Books: (authored by me)
-============================================================================================
+### Books:
+===========================================================================
 #### C Programing Language 
 - C_Programming_Language_Beginner--Advance.pdf
 - ctype.h_Header_File_in_C.pdf
@@ -44,7 +44,7 @@ A curated collection of Jupyter notebooks—some authored by me, and some collec
 #### CYBERSECURITY
 - Malware_Development.pdf
 
-============================================================================================
+===========================================================================
 
 ## Contributions
 
