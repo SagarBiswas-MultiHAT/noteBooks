@@ -42,6 +42,7 @@ A curated collection of Jupyter notebooks—some authored by me, and some collec
 - HTML_HandBook.pdf
 
 #### CYBERSECURITY
+- Malware_Development.pdf
 ============================================================================================
 
 ## Contributions
